@@ -1,0 +1,1 @@
+Simple wordpress widget plugin
